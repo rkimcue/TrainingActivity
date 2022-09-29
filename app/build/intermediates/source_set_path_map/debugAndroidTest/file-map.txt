@@ -1,0 +1,7 @@
+com.example.trainingactivity.test.app-androidTest-0 /Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/generated/res/resValues/androidTest/debug
+com.example.trainingactivity.test.app-androidTest-1 /Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/generated/res/rs/androidTest/debug
+com.example.trainingactivity.test.app-mergeDebugAndroidTestResources-2 /Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.trainingactivity.test.app-mergeDebugAndroidTestResources-3 /Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.trainingactivity.test.app-merged_res-4 /Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/intermediates/merged_res/debugAndroidTest
+com.example.trainingactivity.test.app-androidTest-5 /Users/r.kim/AndroidStudioProjects/TrainingActivity/app/src/androidTest/res
+com.example.trainingactivity.test.app-androidTestDebug-6 /Users/r.kim/AndroidStudioProjects/TrainingActivity/app/src/androidTestDebug/res

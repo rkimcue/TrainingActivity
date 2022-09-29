@@ -1,0 +1,73 @@
+# 2022-07-20T18:45:27.889Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: FAILED
+test_result {
+  test_case {
+    test_class: "MainActivityEspressoTest"
+    test_package: "com.example.trainingactivity"
+    test_method: "mainActivityEspressoTest"
+    start_time {
+      seconds: 1658342684
+      nanos: 634000000
+    }
+    end_time {
+      seconds: 1658342724
+      nanos: 937000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: is \"You win!\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: is \"You win!\"\nGot: view.getText() was \"Correct sequence! Starting next sequence!\" transformed text was \"Correct sequence! Starting next sequence!\"\nView Details: MaterialTextView{id=2131231170, res-name=textview, visibility=VISIBLE, width=1080, height=53, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@654d990, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=678.0, text=Correct sequence! Starting next sequence!, input-type=0, ime-target=false, has-links=false}\n\nat dalvik.system.VMStack.getThreadStackTrace(Native Method)\nat java.lang.Thread.getStackTrace(Thread.java:1736)\nat androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)\nat androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)\nat androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)\nat androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)\nat com.example.trainingactivity.MainActivityEspressoTest.mainActivityEspressoTest(MainActivityEspressoTest.kt:61)\n... 29 trimmed\nCaused by: junit.framework.AssertionFailedError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: is \"You win!\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: is \"You win!\"\nGot: view.getText() was \"Correct sequence! Starting next sequence!\" transformed text was \"Correct sequence! Starting next sequence!\"\nView Details: MaterialTextView{id=2131231170, res-name=textview, visibility=VISIBLE, width=1080, height=53, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@654d990, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=678.0, text=Correct sequence! Starting next sequence!, input-type=0, ime-target=false, has-links=false}\n\nat androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)\nat androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)\nat androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)\nat java.util.concurrent.FutureTask.run(FutureTask.java:266)\nat android.os.Handler.handleCallback(Handler.java:938)\nat android.os.Handler.dispatchMessage(Handler.java:99)\nat android.os.Looper.loop(Looper.java:223)\nat android.app.ActivityThread.main(ActivityThread.java:7656)\nat java.lang.reflect.Method.invoke(Native Method)\nat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)\nat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)"
+    error_type: "junit.framework.AssertionFailedError"
+    stack_trace: "androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: is \"You win!\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: is \"You win!\"\nGot: view.getText() was \"Correct sequence! Starting next sequence!\" transformed text was \"Correct sequence! Starting next sequence!\"\nView Details: MaterialTextView{id=2131231170, res-name=textview, visibility=VISIBLE, width=1080, height=53, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@654d990, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=678.0, text=Correct sequence! Starting next sequence!, input-type=0, ime-target=false, has-links=false}\n\nat dalvik.system.VMStack.getThreadStackTrace(Native Method)\nat java.lang.Thread.getStackTrace(Thread.java:1736)\nat androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)\nat androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)\nat androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)\nat androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)\nat com.example.trainingactivity.MainActivityEspressoTest.mainActivityEspressoTest(MainActivityEspressoTest.kt:61)\n... 29 trimmed\nCaused by: junit.framework.AssertionFailedError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: is \"You win!\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: is \"You win!\"\nGot: view.getText() was \"Correct sequence! Starting next sequence!\" transformed text was \"Correct sequence! Starting next sequence!\"\nView Details: MaterialTextView{id=2131231170, res-name=textview, visibility=VISIBLE, width=1080, height=53, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@654d990, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=678.0, text=Correct sequence! Starting next sequence!, input-type=0, ime-target=false, has-links=false}\n\nat androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)\nat androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)\nat androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)\nat java.util.concurrent.FutureTask.run(FutureTask.java:266)\nat android.os.Handler.handleCallback(Handler.java:938)\nat android.os.Handler.dispatchMessage(Handler.java:99)\nat android.os.Looper.loop(Looper.java:223)\nat android.app.ActivityThread.main(ActivityThread.java:7656)\nat java.lang.reflect.Method.invoke(Native Method)\nat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)\nat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/outputs/androidTest-results/connected/Pixel_4_API_30(AVD) - 11/logcat-com.example.trainingactivity.MainActivityEspressoTest-mainActivityEspressoTest.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/outputs/androidTest-results/connected/Pixel_4_API_30(AVD) - 11/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/outputs/androidTest-results/connected/Pixel_4_API_30(AVD) - 11/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/outputs/androidTest-results/connected/Pixel_4_API_30(AVD) - 11/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/r.kim/AndroidStudioProjects/TrainingActivity/app/build/outputs/androidTest-results/connected/Pixel_4_API_30(AVD) - 11/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

@@ -1,0 +1,591 @@
+07-20 14:44:43.844 19874 19901 I TestRunner: started: mainActivityEspressoTest(com.example.trainingactivity.MainActivityEspressoTest)
+07-20 14:44:43.865 19874 19901 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-20 14:44:43.885  2409  2462 D EventSequenceValidator: inc AccIntentStartedEvents to 11
+07-20 14:44:43.908   407   407 I perfetto: ing_service_impl.cc:758 Configured tracing session 111, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+07-20 14:44:43.917   405   405 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=111)
+07-20 14:44:44.229   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f0965000]
+07-20 14:44:44.339  2302  2302 D Zygote  : Forked child process 19912
+07-20 14:44:44.370   405   405 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+07-20 14:44:44.448 19912 19912 I ngactivity.tes: Late-enabling -Xcheck:jni
+07-20 14:44:44.589 19912 19912 I ngactivity.tes: Unquickening 12 vdex files!
+07-20 14:44:44.593 19912 19912 W ngactivity.tes: Unexpected CPU variant for X86 using defaults: x86
+07-20 14:44:44.671   390   414 I adbd    : jdwp connection from 19912
+07-20 14:44:44.731 19874 19889 I rainingactivit: Background young concurrent copying GC freed 80144(4169KB) AllocSpace objects, 0(0B) LOS objects, 92% free, 1875KB/25MB, paused 53.897ms total 238.409ms
+07-20 14:44:44.768  2409  4036 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.768  2409  4036 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.769  2409  4036 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.769  2409  4036 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.769  2409  4036 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.769  2409  4036 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.769  2409  4036 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.769  2409  4036 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.770  2409  4036 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.770  2409  4036 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.773  2409  4036 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.773  2409  4036 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.773  2409  4036 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.773  2409  4036 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.774  2409  4036 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.774  2409  4036 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.774  2409  4036 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.774  2409  4036 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.774  2409  4036 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.775  2409  4036 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:44.819   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f2ef9000 0x3f34fc000]
+07-20 14:44:45.024 19912 19912 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-20 14:44:45.025 19912 19912 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-20 14:44:45.028 19912 19912 I ngactivity.tes: The ClassLoaderContext is a special shared library.
+07-20 14:44:45.031 19912 19912 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-20 14:44:45.031 19912 19912 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-20 14:44:45.033 19912 19912 I ngactivity.tes: The ClassLoaderContext is a special shared library.
+07-20 14:44:45.161  6024  6043 W earchbox:searc: Reducing the number of considered missed Gc histogram windows from 105 to 100
+07-20 14:44:45.250 19912 19912 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-20 14:44:45.258 19912 19912 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-20 14:44:45.399 19912 19943 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+07-20 14:44:45.434 19912 19943 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+07-20 14:44:45.466 19912 19943 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+07-20 14:44:45.565  2409  3662 D HostConnection: HostConnection::get() New Host Connection established 0xb1f9c080, tid 3662
+07-20 14:44:45.579  2409  3662 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+07-20 14:44:45.588  2409  3662 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-20 14:44:45.602  2409  3662 D EGL_emulation: eglCreateContext: 0xe95b4340: maj 3 min 0 rcv 3
+07-20 14:44:45.606  2409  3662 D EGL_emulation: eglMakeCurrent: 0xe95b4340: ver 3 0 (tinfo 0xb4a89e90) (first time)
+07-20 14:44:45.747   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f12ca000 0x3f1c2f000]
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.759  2409  3862 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.760  2409  3862 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.760  2409  3862 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.760  2409  3862 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.760  2409  3862 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.760  2409  3862 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.761  2409  3862 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.761  2409  3862 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.761  2409  3862 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.761  2409  3862 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.761  2409  3862 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:44:45.813 19874 19945 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+07-20 14:44:45.816 19874 19945 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+07-20 14:44:45.829 19874 19945 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+07-20 14:44:46.637 19912 19928 I ngactivity.tes: Background young concurrent copying GC freed 79101(4126KB) AllocSpace objects, 1(20KB) LOS objects, 93% free, 1760KB/25MB, paused 19.081ms total 45.844ms
+07-20 14:44:46.680 19874 19874 D LifecycleMonitor: Lifecycle status change: com.example.trainingactivity.MainActivity@22cbbd6 in: PRE_ON_CREATE
+07-20 14:44:46.681 19874 19874 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-20 14:44:47.281 19874 19874 W rainingactivit: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+07-20 14:44:47.283 19874 19874 W rainingactivit: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+07-20 14:44:48.016 19874 19874 D MainActivity: Launching coroutine
+07-20 14:44:48.174 19874 19889 I rainingactivit: WaitForGcToComplete blocked RunEmptyCheckpoint on ProfileSaver for 5.422ms
+07-20 14:44:48.290 19874 19874 D MainActivity: Oncreate Finished
+07-20 14:44:48.299 19874 19874 D LifecycleMonitor: Lifecycle status change: com.example.trainingactivity.MainActivity@22cbbd6 in: CREATED
+07-20 14:44:48.327 19874 19874 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.trainingactivity.MainActivity@22cbbd6
+07-20 14:44:48.346 19874 19874 D LifecycleMonitor: Lifecycle status change: com.example.trainingactivity.MainActivity@22cbbd6 in: STARTED
+07-20 14:44:48.347 19874 19874 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.trainingactivity.MainActivity@22cbbd6
+07-20 14:44:48.360 19874 19874 D LifecycleMonitor: Lifecycle status change: com.example.trainingactivity.MainActivity@22cbbd6 in: RESUMED
+07-20 14:44:48.361 19874 19874 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.trainingactivity.MainActivity@22cbbd6
+07-20 14:44:48.763 19874 19901 D EventInjectionStrategy: Creating injection strategy with input manager.
+07-20 14:44:48.769 19874 19901 W rainingactivit: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+07-20 14:44:48.783 19874 19901 W rainingactivit: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+07-20 14:44:48.783 19874 19901 W rainingactivit: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+07-20 14:44:48.959   405   405 I perfetto: probes_producer.cc:329  Producer stop (id=111)
+07-20 14:44:48.983   407   407 I perfetto: ng_service_impl.cc:1948 Tracing session 111 ended, total sessions:0
+07-20 14:44:48.983   405   405 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+07-20 14:44:49.411 19874 19944 D HostConnection: HostConnection::get() New Host Connection established 0xe95a4660, tid 19944
+07-20 14:44:49.478 19874 19944 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+07-20 14:44:49.495   177   177 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device manifest.
+07-20 14:44:49.540 19874 19944 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-20 14:44:49.543 19874 19944 D EGL_emulation: eglCreateContext: 0xe95a3fd0: maj 3 min 0 rcv 3
+07-20 14:44:49.546 19874 19944 D EGL_emulation: eglMakeCurrent: 0xe95a3fd0: ver 3 0 (tinfo 0xe97efef0) (first time)
+07-20 14:44:49.738   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f0965000 0x3f12ca000]
+07-20 14:44:49.752   177   177 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+07-20 14:44:49.760 19874 19944 I Gralloc4: mapper 4.x is not supported
+07-20 14:44:49.763 19874 19944 D HostConnection: createUnique: call
+07-20 14:44:49.766 19874 19944 D HostConnection: HostConnection::get() New Host Connection established 0xe95a47b0, tid 19944
+07-20 14:44:49.767 19874 19944 D goldfish-address-space: allocate: Ask for block of size 0x100
+07-20 14:44:49.769 19874 19944 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3efffe000 size 0x2000
+07-20 14:44:49.808 19874 19944 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+07-20 14:44:49.846   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f1c2f000 0x3f2594000]
+07-20 14:44:49.865   307   307 D goldfish-address-space: claimShared: Ask to claim region [0x3f2594000 0x3f2ef9000]
+07-20 14:44:50.155 19874 19944 I OpenGLRenderer: Davey! duration=1575ms; Flags=1, IntendedVsync=89808471681023, Vsync=89808538347687, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=89808547646777, AnimationStart=89808547727777, PerformTraversalsStart=89808547894777, DrawStart=89809740975777, SyncQueued=89809760954777, SyncStart=89809771177777, IssueDrawCommandsStart=89809771304777, SwapBuffers=89809986436777, FrameCompleted=89810057664777, DequeueBufferDuration=2544000, QueueBufferDuration=4065000, GpuCompleted=72904454231491230,
+07-20 14:44:50.276  2409  2498 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.trainingactivity/1/com.example.trainingactivity.MainActivity/compiled_traces/compiled_trace.pb doesn't exist
+07-20 14:44:50.287  2409  2462 D EventSequenceValidator: dec AccIntentStartedEvents to 10
+07-20 14:44:50.291  2409  2498 I ActivityTaskManager: Displayed com.example.trainingactivity/.MainActivity: +6s345ms
+07-20 14:44:50.451   426  1257 E IPCThreadState: binder thread pool (1 threads) starved for 163 ms
+07-20 14:44:50.936 19874 19874 I Choreographer: Skipped 134 frames!  The application may be doing too much work on its main thread.
+07-20 14:44:51.347 19874 19944 I OpenGLRenderer: Davey! duration=2523ms; Flags=0, IntendedVsync=89808605022189, Vsync=89810838355433, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=89810854608777, AnimationStart=89810857369777, PerformTraversalsStart=89810932566777, DrawStart=89810977339777, SyncQueued=89811022285777, SyncStart=89811133058777, IssueDrawCommandsStart=89811137979777, SwapBuffers=89811168697777, FrameCompleted=89811239612777, DequeueBufferDuration=1093000, QueueBufferDuration=18095000, GpuCompleted=43984843964424,
+07-20 14:44:51.542 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:44:51.547 19874 19874 D MainActivity: Animate Button
+07-20 14:44:52.075 19874 19874 W rainingactivit: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+07-20 14:44:52.075 19874 19874 W rainingactivit: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+07-20 14:44:52.076 19874 19874 W rainingactivit: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+07-20 14:44:52.194 19874 19874 W rainingactivit: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+07-20 14:44:52.223 19874 19874 W rainingactivit: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+07-20 14:44:52.223 19874 19874 W rainingactivit: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+07-20 14:44:52.607 19874 19874 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Welcome to Simon!"}' assertion on view view.getId() is <2131231170/com.example.trainingactivity:id/textview>
+07-20 14:44:52.655 19874 19874 D MainActivity: Return to Original Color
+07-20 14:44:52.695 19874 19901 W rainingactivit: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (greylist, reflection, allowed)
+07-20 14:44:53.017 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230822/com.example.trainingactivity:id/button_third>
+07-20 14:44:53.846  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:53.852  2409  3862 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:53.927  2359  2383 D AF::Track: interceptBuffer: took 516us to intercept 0 tracks
+07-20 14:44:54.108  2409  3767 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:54.233  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:54.428  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:54.459 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:44:54.459 19874 19874 D MainActivity: Animate Button
+07-20 14:44:54.464  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:54.572  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 3 lines
+07-20 14:44:54.851  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:54.916 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230822/com.example.trainingactivity:id/button_third>
+07-20 14:44:54.926  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:55.468  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 9 lines
+07-20 14:44:55.536  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:55.572 19874 19874 D MainActivity: Return to Original Color
+07-20 14:44:55.579  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:55.605  2409  3767 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:55.616  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:55.633  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 1 line
+07-20 14:44:55.649  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:55.660  2359  2383 D AF::Track: interceptBuffer: took 2798us to intercept 0 tracks
+07-20 14:44:55.687  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:55.739  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:55.799  2409  3767 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:55.977  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:56.096  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 1 line
+07-20 14:44:56.127  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:56.136 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:44:56.136 19874 19874 D MainActivity: Animate Button
+07-20 14:44:56.146  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:56.276  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 1 line
+07-20 14:44:56.362  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:56.388 13152 13172 W .composeattemp: Reducing the number of considered missed Gc histogram windows from 3621 to 100
+07-20 14:44:56.465  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:56.476 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230822/com.example.trainingactivity:id/button_third>
+07-20 14:44:56.536  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:56.600  6096  6096 I Finsky  : [2] wbh.a(20): SCH: onJobSchedulerWakeup with jobId 9002
+07-20 14:44:56.642  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:56.737  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:44:56.991  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.006  6096  6186 D SharedPreferencesImpl: Time required to fsync /data/user/0/com.android.vending/shared_prefs/finsky.xml: [<1: 0, <2: 0, <4: 5, <8: 15, <16: 1, <32: 0, <64: 0, <128: 0, <256: 0, <512: 1, <1024: 0, <2048: 0, <4096: 0, <8192: 0, <16384: 0, >=16384: 0]
+07-20 14:44:57.019  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.045  6096  6096 I Finsky  : [2] vyk.a(19): Scheduling fallback job with id: 9034, and delay: 43200000 ms
+07-20 14:44:57.083  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.316  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:44:57.358  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.484 19874 19874 D MainActivity: Return to Original Color
+07-20 14:44:57.718  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.728 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:44:57.728 19874 19874 D MainActivity: Animate Button
+07-20 14:44:57.739  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.742  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:57.749  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.781  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.787  2359  2383 D AF::Track: interceptBuffer: took 4693us to intercept 0 tracks
+07-20 14:44:57.819  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:57.983  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:44:58.045  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:58.056  4592  4630 I PeriodicStatsRunner: PeriodicStatsRunner.call():180 call()
+07-20 14:44:58.157  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:58.365  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:58.371  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:58.384  4592  4630 I PeriodicStatsRunner: PeriodicStatsRunner.call():184 No submit PeriodicStats since input started.
+07-20 14:44:58.392  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:58.610  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 5 lines
+07-20 14:44:58.768  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:58.777 19874 19874 D MainActivity: Return to Original Color
+07-20 14:44:58.788  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:58.830  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:44:58.855  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:58.860 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230822/com.example.trainingactivity:id/button_third>
+07-20 14:44:59.010  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.356  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 5 lines
+07-20 14:44:59.388  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.394 19874 19874 W MotionEvents: Overslept and turned a tap into a long press
+07-20 14:44:59.419  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.459  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 1 line
+07-20 14:44:59.481  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.524  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:59.527  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.546  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:44:59.578  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.579  2359  2383 D AudioFlinger: mixer(0xed23c030) throttle end: throttle time(4)
+07-20 14:44:59.609  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.682  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.746 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230822/com.example.trainingactivity:id/button_third>
+07-20 14:44:59.769  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.798  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.816  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:44:59.842  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.880 19715 19732 I ssioncontrolle: WaitForGcToComplete blocked HeapTrim on None for 9.242ms
+07-20 14:44:59.898  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:44:59.987  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 1 line
+07-20 14:45:00.091  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.205 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:45:00.205 19874 19874 D MainActivity: Animate Button
+07-20 14:45:00.256  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.284  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 1 line
+07-20 14:45:00.327  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.332 19874 19874 W MotionEvents: Overslept and turned a tap into a long press
+07-20 14:45:00.429  6096  6096 I Finsky  : [2] vyk.a(9): Scheduling fallback in 64799323 (absolute: 154619654)
+07-20 14:45:00.605  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.645  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.684  2409  4190 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:00.698  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.737  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:45:00.823  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.838  2359  2383 D AF::Track: interceptBuffer: took 5831us to intercept 0 tracks
+07-20 14:45:00.860  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.895  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:00.936  2409  4190 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:01.027  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.028 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230819/com.example.trainingactivity:id/button_first>
+07-20 14:45:01.048 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:45:01.049 19874 19874 D MainActivity: Animate Button
+07-20 14:45:01.094  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.196  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 3 lines
+07-20 14:45:01.235  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.245 19874 19874 D MainActivity: Return to Original Color
+07-20 14:45:01.297  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.579  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 8 lines
+07-20 14:45:01.594  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.660  2409  4190 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:01.664  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.719  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.730  6096  6096 I Finsky  : [2] vyt.handleMessage(7): SCH: DeviceState: DeviceState{currentTime=1658342701510, isCharging=false, isIdle=false, netAny=true, netNotRoaming=true, netUnmetered=false, batteryPercent=100.0}
+07-20 14:45:01.732  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.791  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:45:01.919  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:01.998 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230822/com.example.trainingactivity:id/button_third>
+07-20 14:45:02.016 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:45:02.016 19874 19874 D MainActivity: Animate Button
+07-20 14:45:02.282  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:02.309  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:02.371  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:02.404 19874 19874 D MainActivity: Return to Original Color
+07-20 14:45:02.412  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:02.449  6096 19655 I Finsky  : [2021] wbh.a(7): SCH: Jobs in database: 1-1337 3-33 3-34 3-35 12-1 24-77777777 26-1414141414 31-305419896
+07-20 14:45:02.452  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:02.487  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 1 line
+07-20 14:45:02.548  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:02.582  6096  6096 I Finsky  : [2] vyu.a(16): SCH: Running job: 12-1
+07-20 14:45:02.584  6096  6096 I Finsky  : [2] ContentSyncJob.a(16): [ContentSync] job started
+07-20 14:45:02.587  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:02.591  6096  6096 I Finsky  : [2] vyt.handleMessage(58): SCH: RunningQueue size: 1, PendingQueue size: 0
+07-20 14:45:02.598  6096  6096 I Finsky  : [2] vyt.handleMessage(62): SCH: Running queue: 12-1
+07-20 14:45:02.627  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:02.679 19874 19874 W MotionEvents: Overslept and turned a tap into a long press
+07-20 14:45:02.683  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:03.483  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 10 lines
+07-20 14:45:03.551  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:03.559 19874 19874 D MainActivity: Return to Original Color
+07-20 14:45:03.582  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:03.959  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 6 lines
+07-20 14:45:04.246  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:04.365  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:04.419  2361 19981 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:45:04.419  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:04.515 19874 19944 I OpenGLRenderer: Davey! duration=753ms; Flags=0, IntendedVsync=89823646680416, Vsync=89823780013744, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=89823796609777, AnimationStart=89823796774777, PerformTraversalsStart=89823819500777, DrawStart=89823824406777, SyncQueued=89823854476777, SyncStart=89823873188777, IssueDrawCommandsStart=89824095036777, SwapBuffers=89824400206777, FrameCompleted=89824419150777, DequeueBufferDuration=1264000, QueueBufferDuration=13576000, GpuCompleted=144115222452438097,
+07-20 14:45:04.538  2409  4190 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:04.548 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:45:04.549 19874 19874 D MainActivity: Animate Button
+07-20 14:45:04.579  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:04.789  2361 19981 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:45:04.799  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:04.796  2359  2383 D AudioFlinger: mixer(0xed23c030) throttle end: throttle time(2)
+07-20 14:45:04.827  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:05.168  2361 19981 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 8 lines
+07-20 14:45:05.203  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:05.213  2409  4190 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:05.216  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:05.227 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230822/com.example.trainingactivity:id/button_third>
+07-20 14:45:05.237  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:05.748  2361 19981 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 10 lines
+07-20 14:45:05.800  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:05.836 19874 19874 D MainActivity: Return to Original Color
+07-20 14:45:05.839  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:06.072  2361 19981 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 4 lines
+07-20 14:45:06.103  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:06.310  2359  2383 D AF::Track: interceptBuffer: took 1282us to intercept 0 tracks
+07-20 14:45:06.317  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:06.317  2359  2383 D AudioFlinger: mixer(0xed23c030) throttle end: throttle time(10)
+07-20 14:45:06.338  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:06.351  2361 19981 I chatty  : uid=1041(audioserver) audio.service.r identical 2 lines
+07-20 14:45:06.366  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:06.373  2409  3862 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:06.655  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:06.709 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:45:06.710 19874 19874 D MainActivity: Animate Button
+07-20 14:45:06.710  2409  3862 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:06.719  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:07.289  2361 19981 I chatty  : uid=1041(audioserver) audio.service.r identical 7 lines
+07-20 14:45:07.367  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:07.545 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230819/com.example.trainingactivity:id/button_first>
+07-20 14:45:07.746  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:07.764  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:07.780  2361 19981 I chatty  : uid=1041(audioserver) audio.service.r identical 3 lines
+07-20 14:45:07.809  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:07.832 19874 19874 D MainActivity: Return to Original Color
+07-20 14:45:07.832  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:08.072  2361 19981 I chatty  : uid=1041(audioserver) audio.service.r identical 5 lines
+07-20 14:45:08.094  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:08.197 19874 19874 W MotionEvents: Overslept and turned a tap into a long press
+07-20 14:45:08.288  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:08.849  2361 19981 I chatty  : uid=1041(audioserver) audio.service.r identical 8 lines
+07-20 14:45:08.861  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:08.998 19874 19874 D mainActivity: Sequence [GREEN]
+07-20 14:45:08.998 19874 19874 D MainActivity: Animate Button
+07-20 14:45:09.071  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:09.197  2361 19981 I chatty  : uid=1041(audioserver) audio.service.r identical 1 line
+07-20 14:45:09.352  2361 19981 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:09.458  2409  3862 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:09.566  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:09.567  2409  4036 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:09.591  2359  2383 D AudioFlinger: mixer(0xed23c030) throttle end: throttle time(22)
+07-20 14:45:09.667  2359  2383 D AudioFlinger: mixer(0xed23c030) throttle end: throttle time(4)
+07-20 14:45:09.772  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:09.927  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:09.986  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 3 lines
+07-20 14:45:10.012  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:10.024 19874 19874 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230821/com.example.trainingactivity:id/button_second>
+07-20 14:45:10.032 19874 19874 D MainActivity: Return to Original Color
+07-20 14:45:10.048  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:10.423  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 9 lines
+07-20 14:45:10.481  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:10.482  2359  2383 D AudioFlinger: mixer(0xed23c030) throttle end: throttle time(3)
+07-20 14:45:10.591  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:10.611  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:10.689  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:10.692  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:10.719  2409  3768 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:10.795  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:10.821 19874 19874 D mainActivity: Sequence [GREEN, GREEN]
+07-20 14:45:10.821 19874 19874 D MainActivity: Animate Button
+07-20 14:45:10.824  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.161  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 10 lines
+07-20 14:45:11.190  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.199 19874 19874 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "You win!"}' assertion on view view.getId() is <2131231170/com.example.trainingactivity:id/textview>
+07-20 14:45:11.220  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.276  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:45:11.298  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.317  2409  2462 D EventSequenceValidator: inc AccIntentStartedEvents to 11
+07-20 14:45:11.322  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.417  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 3 lines
+07-20 14:45:11.444  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.467 19874 19874 D LifecycleMonitor: Lifecycle status change: com.example.trainingactivity.MainActivity@22cbbd6 in: PAUSED
+07-20 14:45:11.475 19874 19874 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.trainingactivity.MainActivity@22cbbd6
+07-20 14:45:11.482  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.482  2409  4036 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.482  2409  4036 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.482  2409  4036 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.483  2409  4036 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.483  2409  4036 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.483  2409  4036 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.483  2409  4036 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.483  2409  4036 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.483  2409  4036 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.483  2409  4036 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.487  2409  4036 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:11.507   407   407 I perfetto: ing_service_impl.cc:758 Configured tracing session 112, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+07-20 14:45:11.508  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.516   405   405 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=112)
+07-20 14:45:11.547  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.783  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 5 lines
+07-20 14:45:11.810  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.828 19874 19874 D MainActivity: Return to Original Color
+07-20 14:45:11.839  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.902  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:45:11.947  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:11.984   405   405 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+07-20 14:45:11.992  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.196  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 5 lines
+07-20 14:45:12.218  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.222  2409  2462 D EventSequenceValidator: inc AccIntentStartedEvents to 12
+07-20 14:45:12.252  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.326  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.338 19874 19874 D MainActivity: Animate Button
+07-20 14:45:12.384  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.526  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 3 lines
+07-20 14:45:12.557  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.586  2409  2462 D EventSequenceValidator: dec AccIntentStartedEvents to 11
+07-20 14:45:12.595  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.617  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.655 19912 19941 D HostConnection: HostConnection::get() New Host Connection established 0xe9582cb0, tid 19941
+07-20 14:45:12.685  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.727  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 1 line
+07-20 14:45:12.771  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.779  2409  2462 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.779  2409  2462 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.780  2409  2462 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.781  2409  2462 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.781  2409  2462 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.781  2409  2462 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.781  2409  2462 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.781  2409  2462 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.781  2409  2462 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:12.792  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:12.818 19912 19941 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+07-20 14:45:12.823  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:13.157  2361  5027 I chatty  : uid=1041(audioserver) HwBinder:2361_3 identical 2 lines
+07-20 14:45:13.236  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:13.342 19874 19874 D MainActivity: Return to Original Color
+07-20 14:45:13.383   177   177 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device manifest.
+07-20 14:45:13.386 19912 19941 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-20 14:45:13.387  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:13.391 19912 19941 D EGL_emulation: eglCreateContext: 0xe95821c0: maj 3 min 0 rcv 3
+07-20 14:45:13.403 19912 19941 D EGL_emulation: eglMakeCurrent: 0xe95821c0: ver 3 0 (tinfo 0xe97d5390) (first time)
+07-20 14:45:13.407  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:13.438  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:13.447 23129 20017 D SharedPreferencesImpl: Time required to fsync /data/user/0/com.google.android.gms/shared_prefs/com.google.android.gms.safetynet.xml: [<1: 0, <2: 0, <4: 13, <8: 24, <16: 2, <32: 7, <64: 3, <128: 0, <256: 0, <512: 0, <1024: 1, <2048: 0, <4096: 0, <8192: 0, <16384: 0, >=16384: 0]
+07-20 14:45:13.479  2361  5027 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+07-20 14:45:13.634  2409  3862 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+07-20 14:45:13.695   307   307 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f0965000]
+07-20 14:45:13.727   177   177 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+07-20 14:45:13.728 19912 19941 I Gralloc4: mapper 4.x is not supported
+07-20 14:45:13.732 19912 19941 D HostConnection: createUnique: call
+07-20 14:45:13.735 19912 19941 D HostConnection: HostConnection::get() New Host Connection established 0xe9581a50, tid 19941
+07-20 14:45:13.736 19912 19941 D goldfish-address-space: allocate: Ask for block of size 0x100
+07-20 14:45:13.737 19912 19941 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3efffe000 size 0x2000
+07-20 14:45:14.219 19912 19941 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+07-20 14:45:14.227   307   307 D goldfish-address-space: claimShared: Ask to claim region [0x3f12ca000 0x3f1c2f000]
+07-20 14:45:14.359   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f4965000]
+07-20 14:45:15.679 19912 19941 I OpenGLRenderer: Davey! duration=3448ms; Flags=1, IntendedVsync=89831955013417, Vsync=89832088346745, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=89832103165777, AnimationStart=89832103336777, PerformTraversalsStart=89832103515777, DrawStart=89834139224777, SyncQueued=89834487635777, SyncStart=89834666250777, IssueDrawCommandsStart=89834667829777, SwapBuffers=89835299189777, FrameCompleted=89835581765777, DequeueBufferDuration=170305000, QueueBufferDuration=4937000, GpuCompleted=72904454231491230,
+07-20 14:45:15.697  3143  8548 I rkstack.proces: IncrementDisableThreadFlip blocked for 36.826ms
+07-20 14:45:15.700  3143 18649 I rkstack.proces: IncrementDisableThreadFlip blocked for 13.610ms
+07-20 14:45:16.083  3143  3156 I rkstack.proces: Background concurrent copying GC freed 6240(426KB) AllocSpace objects, 34(2040KB) LOS objects, 49% free, 2317KB/4634KB, paused 776.668ms total 2.603s
+07-20 14:45:16.604   405   405 I perfetto: probes_producer.cc:329  Producer stop (id=112)
+07-20 14:45:16.775   407   407 I perfetto: ng_service_impl.cc:1948 Tracing session 112 ended, total sessions:0
+07-20 14:45:16.802   405   405 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+07-20 14:45:17.018   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f4965000 0x3f52ca000]
+07-20 14:45:17.045   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f52ca000 0x3f5c2f000]
+07-20 14:45:17.050   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f5c2f000 0x3f6594000]
+07-20 14:45:17.408  2409  2498 I ActivityTaskManager: Displayed com.example.trainingactivity.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +5s0ms
+07-20 14:45:17.678   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f2594000 0x3f2b97000]
+07-20 14:45:18.047  2409  3662 D HostConnection: HostConnection::get() New Host Connection established 0xe95b9740, tid 3662
+07-20 14:45:18.292  2409  4190 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.292  2409  4190 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.292  2409  4190 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.293  2409  4190 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.303  2409  4190 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.304  2409  4190 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.304  2409  4190 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.307  2409  4190 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.307  2409  4190 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.307  2409  4190 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.311  2409  4190 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.311  2409  4190 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.311  2409  4190 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.311  2409  4190 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.311  2409  4190 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.311  2409  4190 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.311  2409  4190 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.312  2409  4190 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.312  2409  4190 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:18.316  2409  4190 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-20 14:45:19.060  3320  3329 I s.nexuslaunche: NativeAlloc concurrent copying GC freed 2457(217KB) AllocSpace objects, 1(88KB) LOS objects, 49% free, 3720KB/7441KB, paused 15.439ms total 838.219ms
+07-20 14:45:19.301  2409  3662 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+07-20 14:45:19.535  2409  3662 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-20 14:45:19.539  2409  3662 D EGL_emulation: eglCreateContext: 0xe95b7590: maj 3 min 0 rcv 3
+07-20 14:45:19.556  2409  3662 D EGL_emulation: eglMakeCurrent: 0xe95b7590: ver 3 0 (tinfo 0xb4a89e90) (first time)
+07-20 14:45:19.940  2361 20004 W android.hardware.audio.service.ranchu: TinyalsaSink::consumeThread:176 pcm_write failed with res=-1
+07-20 14:45:20.405   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f0965000 0x3f12ca000]
+07-20 14:45:20.584   472   472 E netmgr  : qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument
+07-20 14:45:20.584   472   472 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+07-20 14:45:20.630   307   353 D goldfish-address-space: claimShared: Ask to claim region [0x3f6594000 0x3f6ef9000]
+07-20 14:45:20.689   307   307 D goldfish-address-space: claimShared: Ask to claim region [0x3f6ef9000 0x3f785e000]
+07-20 14:45:21.247 13152 13199 I OpenGLRenderer: Davey! duration=1530ms; Flags=1, IntendedVsync=89839430013118, Vsync=89839646679776, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=89839654612777, AnimationStart=89839654696777, PerformTraversalsStart=89839654828777, DrawStart=89840369978777, SyncQueued=89840764228777, SyncStart=89840954939777, IssueDrawCommandsStart=89840956320777, SwapBuffers=89841097241777, FrameCompleted=89841150903777, DequeueBufferDuration=11333000, QueueBufferDuration=8586000, GpuCompleted=12884901912,
+07-20 14:45:22.829  2409  2463 I Choreographer: Skipped 68 frames!  The application may be doing too much work on its main thread.
+07-20 14:45:23.087 19874 19874 D LifecycleMonitor: Lifecycle status change: com.example.trainingactivity.MainActivity@22cbbd6 in: STOPPED
+07-20 14:45:23.088 19874 19874 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.trainingactivity.MainActivity@22cbbd6
+07-20 14:45:23.281   478   478 E wifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument
+07-20 14:45:23.282   478   478 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+07-20 14:45:23.355  2409  2463 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+07-20 14:45:23.810 19874 19874 D LifecycleMonitor: Lifecycle status change: com.example.trainingactivity.MainActivity@22cbbd6 in: DESTROYED
+07-20 14:45:23.811 19874 19874 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+07-20 14:45:23.832 19874 19901 E TestRunner: failed: mainActivityEspressoTest(com.example.trainingactivity.MainActivityEspressoTest)
+07-20 14:45:23.837 19874 19901 E TestRunner: ----- begin exception -----
+07-20 14:45:23.868 19874 19901 E TestRunner: androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: is "You win!"' doesn't match the selected view.
+07-20 14:45:23.868 19874 19901 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "You win!"
+07-20 14:45:23.868 19874 19901 E TestRunner:      Got: view.getText() was "Correct sequence! Starting next sequence!" transformed text was "Correct sequence! Starting next sequence!"
+07-20 14:45:23.868 19874 19901 E TestRunner: View Details: MaterialTextView{id=2131231170, res-name=textview, visibility=VISIBLE, width=1080, height=53, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@654d990, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=678.0, text=Correct sequence! Starting next sequence!, input-type=0, ime-target=false, has-links=false}
+07-20 14:45:23.868 19874 19901 E TestRunner:
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1736)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at com.example.trainingactivity.MainActivityEspressoTest.mainActivityEspressoTest(MainActivityEspressoTest.kt:61)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+07-20 14:45:23.868 19874 19901 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2205)
+07-20 14:45:23.868 19874 19901 E TestRunner: Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: is "You win!"' doesn't match the selected view.
+07-20 14:45:23.927 19874 19901 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "You win!"
+07-20 14:45:23.927 19874 19901 E TestRunner:      Got: view.getText() was "Correct sequence! Starting next sequence!" transformed text was "Correct sequence! Starting next sequence!"
+07-20 14:45:23.927 19874 19901 E TestRunner: View Details: MaterialTextView{id=2131231170, res-name=textview, visibility=VISIBLE, width=1080, height=53, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@654d990, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=678.0, text=Correct sequence! Starting next sequence!, input-type=0, ime-target=false, has-links=false}
+07-20 14:45:23.927 19874 19901 E TestRunner:
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:938)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at android.os.Looper.loop(Looper.java:223)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:7656)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+07-20 14:45:23.927 19874 19901 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+07-20 14:45:23.927 19874 19901 E TestRunner: ----- end exception -----
+07-20 14:45:24.084 19874 19901 I TestRunner: finished: mainActivityEspressoTest(com.example.trainingactivity.MainActivityEspressoTest)
